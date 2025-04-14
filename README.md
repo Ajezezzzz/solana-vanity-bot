@@ -7,4 +7,6 @@ A Node.js Telegram bot that generates Solana wallets with custom vanity prefixes
 
 🧪 Meant for dev/testing only — never expose real private keys in production.
 
-🌐 vanitysol.org — project site & future tools hub.
+🌐 [vanitysol.org](https://vanitysol.org) — project site & future tools hub.
+
+Live bot: [@VanitySolBot](https://t.me/VanitySolBot)
